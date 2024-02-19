@@ -1,0 +1,22 @@
+{
+  "name": "nodecp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MEDALI003/nodecp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MEDALI003/nodecp/issues"
+  },
+  "homepage": "https://github.com/MEDALI003/nodecp#readme",
+  "dependencies": {
+    "generate-password": "^1.7.1"
+  }
+}
